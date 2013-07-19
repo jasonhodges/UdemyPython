@@ -7,7 +7,7 @@ print t
 
 print type(t)
 
-print len(t)n\
+print len(t)
 
 print min(t)
 
